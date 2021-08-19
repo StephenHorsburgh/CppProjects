@@ -1,0 +1,3 @@
+﻿  mian.cpp
+C:\Users\Owner\source\repos\ClientPorject01\ClientPorject01\mian.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ClientPorject01.vcxproj -> C:\Users\Owner\source\repos\ClientPorject01\Debug\ClientPorject01.exe
